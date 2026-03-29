@@ -1,2 +1,2 @@
-# alu-higher_level_programming
+# alu_higher_level_programming
 Practice
