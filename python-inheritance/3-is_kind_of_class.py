@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-"""Checks object class"""
+"""Module that defines is_kind_of_class function."""
 
 
-def is_same_class(obj, a_class):
-    """Checks object class
-    Args:
-        - obj: object to class
-        - a_class: class to check
-    """
-    return type(obj) is a_class
+def is_kind_of_class(obj, a_class):
+    """Return True if obj is an instance of a_class or inherits from it."""
+    return isinstance(obj, a_class)
