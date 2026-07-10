@@ -13,4 +13,4 @@ Exercises and projects for the Higher Level Programming curriculum.
 
 ## Directories
 
-- `javascript-warm_up` — JavaScript basics: variables, constants, `console.log` mucyo
+- `javascript-warm_up` — JavaScript basics: variables, constants, `console.log`
